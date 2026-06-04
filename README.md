@@ -4,7 +4,7 @@ Este repositório apresenta um projeto de engenharia e análise de dados voltado
 
 ## Links Rápidos de Acesso
 
-*   **Dashboard Interativo (Looker Studio):** [CLIQUE AQUI PARA ACESSAR O PAINEL](./(https://datastudio.google.com/reporting/8f317500-7d5f-4a69-b89c-237c17ec9a79))
+*   **Dashboard Interativo (Looker Studio):** [CLIQUE AQUI PARA ACESSAR O PAINEL](("https://datastudio.google.com/reporting/8f317500-7d5f-4a69-b89c-237c17ec9a79"))
 *   **Documentação Completa (PDF):** [CLIQUE AQUI PARA ABRIR O RELATÓRIO](./Analise_Subnotificacao_Violencia_RS.pdf)
 
 ---

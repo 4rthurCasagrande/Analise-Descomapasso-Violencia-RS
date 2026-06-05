@@ -13,7 +13,7 @@ Este repositório apresenta um projeto de engenharia e análise de dados voltado
 
 Para facilitar a avaliação da banca examinadora, os arquivos foram organizados da seguinte forma:
 
-*   **`notebooks/`**: Contém o arquivo `.ipynb` com todo o código Python desenvolvido para a Limpeza, Tratamento e Análise Exploratória de Dados (EDA).
+*   **O arquivo `.ipynb` contém todo o código Python desenvolvido para a Limpeza, Tratamento e Análise Exploratória de Dados (EDA).
 *   **`Analise_Subnotificacao_Violencia_RS.pdf`**: Relatório técnico oficial contendo o detalhamento completo das etapas de **Coleta de Dados**, **Modelagem** e **Conclusões/Diagnósticos**.
 
 ---
